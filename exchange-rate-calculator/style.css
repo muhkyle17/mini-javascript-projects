@@ -75,9 +75,13 @@ p {
   justify-content: space-between;
 }
 
+.btn {
+  font-size: 20px;
+}
+
 .rate {
   color: var(--primary-color);
-  font-size: 14px;
+  font-size: 20px;
   padding: 0 10px;
 }
 
